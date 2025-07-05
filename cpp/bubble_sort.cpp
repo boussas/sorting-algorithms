@@ -29,6 +29,5 @@ int main() {
     cout << "Sorted: ";
     for (int num : arr) cout << num << " ";
     cout << endl;
-
     return 0;
 }
