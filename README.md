@@ -43,6 +43,7 @@ sorting-algorithms/
 │
 ├── python
 │   ├── bubble_sort.py
+│   ├── heap_sort.py
 │   ├── insertion_sort.py
 │   └── selection_sort.py
 │
